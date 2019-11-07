@@ -1,4 +1,4 @@
-# AUTOMATED-ALGORITHM-FOR-DETECTING-AND-LOCALIZING-ENTERIC-TUBES-TO-FACILITATE-ACCURATE-AND-TIMELY-RAD
+# AUTOMATED ALGORITHM FOR DETECTING AND LOCALIZING ENTERIC TUBES TO FACILITATE ACCURATE AND TIMELY RADIOGRAPHIC INTERPRETATION
 
 Misplaced enteric tubes can result in significant morbidity, including pneumothorax, pleural effusion, retropharyngeal abscess and lung abscess. In clinical practice, radiographs are used to confirm position of enteric tubes. These radiographs may be reviewed by the primary team or interpreted by the radiologist prior to starting enteral feeding or medications. Although rare, missed malpositioned enteric tubes can lead to catastrophic consequences including patient death. Mistakes in interpretation can occur due to poor image quality, distracting findings on the radiographs (such as presence of other tubes or pathologies) , or consequence of other human error. An accurate algorithm automatically localizing enteric tubes can help reduce such errors. The algorithm could also flag potential positive studies on reading worklists to facilitate prioritization of interpretation by a radiologist, regardless of length of the reading queue.
 
