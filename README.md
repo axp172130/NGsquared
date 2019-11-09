@@ -24,6 +24,12 @@ Misplaced enteric tubes can result in significant morbidity, including pneumotho
 We will utilize approximately 1000 abdominal radiographs without enteric tubes and about 1000 radiographs with tubes in place, and bounding box information for localization of the tips of the catheter.  Our goal is to create a solution that can reliably identify whether a tube is present and pretty close at deriving bounding boxes that enclose the terminal tip of the tubes. In the final product, the locations of the terminal tips can be used to identify images containing malpositioned tubes, potentially through statistical means or cluster analysis. 
 
 Team Leads: Travis Browning, MD and Ye Seng Ng, MD, Emergency Medicine, profiles.utsouthwestern.edu/profile/42192/travis-browning.html 
+<<<<<<< HEAD
+=======
+
+![Alt text](https://images.squarespace-cdn.com/content/v1/5b3ffc3fcef3721bd81d8c60/1559312908014-U0GOGORXOYIS0UJQV43H/ke17ZwdGBToddI8pDm48kLSRW7PLm3WkubOqe1a7DDVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyGgy-SgXO0EeFY0JziBd3dD9HtJ7Bi1hLUqRY0vXhnJ17ynhB4yX2qIiJJUVq2E2g/browning1.png?format=1500w)
+=======
+>>>>>>> d6981daf16471442a413da9e6475140b001f36c7
 
 ![Alt text](https://images.squarespace-cdn.com/content/v1/5b3ffc3fcef3721bd81d8c60/1559312908014-U0GOGORXOYIS0UJQV43H/ke17ZwdGBToddI8pDm48kLSRW7PLm3WkubOqe1a7DDVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyGgy-SgXO0EeFY0JziBd3dD9HtJ7Bi1hLUqRY0vXhnJ17ynhB4yX2qIiJJUVq2E2g/browning1.png?format=1500w)
 =======
