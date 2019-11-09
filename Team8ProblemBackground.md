@@ -98,6 +98,14 @@ Immediate feedback on enteric tube placement
 Sub-optimal tube placement can be remedied and addressed immediately
 
 
+## Introduction
 
+Misplaced enteric tubes can cause issues
 
+Detected misplaced enteric tubes can be done with multiple methods but radiography is gold standard
 
+Finding enteric tubes through x-ray scans is difficult and radiologists may make mistakes. 
+
+In addition, sub-optimal placement is not readily reported and may cause discomfort for patients. The time taken to review and approve tube placement is also significant.
+
+Having a tool to 
