@@ -1,0 +1,12 @@
+body {
+  background-image: url(mrilungsample.jpg)
+}
+
+.header {
+  overflow: hidden;
+  background-color: #07304b;
+  padding: 20px 10px;
+}
+.header a:hover {
+  background-color : #ddf;
+}
